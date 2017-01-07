@@ -257,7 +257,7 @@ a{
     background-size: cover;
     min-height: 600px;
 }
-
+ 
 @media (max-width: 768px) {
     .demo-blog .shirley-top .mdl-card__media {
         min-height: inherit;
