@@ -253,7 +253,7 @@ a{
 }
 
 .demo-blog .shirley-top .mdl-card__media {
-    background-image: url('..shirleyandthecans.github.io/images/selfie-top-no-event.jpg');
+    background-image: url('../images/selfie-top-no-event.jpg');
     background-size: cover;
     min-height: 600px;
 }
